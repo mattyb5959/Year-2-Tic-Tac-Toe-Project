@@ -1,0 +1,57 @@
+{C:/Users/MatyuGuerrero/Documents/School stuff/cicuit theory/Micro Processors/Labs/Modelsim/labs/tic_tac_toe/tic_tac_toe.v} {1 {vlog -work work -stats=none {C:/Users/MatyuGuerrero/Documents/School stuff/cicuit theory/Micro Processors/Labs/Modelsim/labs/tic_tac_toe/tic_tac_toe.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tic_tac_toe
+
+Top level modules:
+	tic_tac_toe
+
+} {} {}} {C:/Users/MatyuGuerrero/Documents/School stuff/cicuit theory/Micro Processors/Labs/Modelsim/labs/tic_tac_toe/nospace_detector.v} {1 {vlog -work work -stats=none {C:/Users/MatyuGuerrero/Documents/School stuff/cicuit theory/Micro Processors/Labs/Modelsim/labs/tic_tac_toe/nospace_detector.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module nospace_detector
+
+Top level modules:
+	nospace_detector
+
+} {} {}} {C:/Users/MatyuGuerrero/Documents/School stuff/cicuit theory/Micro Processors/Labs/Modelsim/labs/tic_tac_toe/fsm_game_controller.v} {1 {vlog -work work -stats=none {C:/Users/MatyuGuerrero/Documents/School stuff/cicuit theory/Micro Processors/Labs/Modelsim/labs/tic_tac_toe/fsm_game_controller.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module fsm_game_controller
+
+Top level modules:
+	fsm_game_controller
+
+} {} {}} {C:/Users/MatyuGuerrero/Documents/School stuff/cicuit theory/Micro Processors/Labs/Modelsim/labs/tic_tac_toe/pos_decoder.v} {1 {vlog -work work -stats=none {C:/Users/MatyuGuerrero/Documents/School stuff/cicuit theory/Micro Processors/Labs/Modelsim/labs/tic_tac_toe/pos_decoder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module pos_decoder
+
+Top level modules:
+	pos_decoder
+
+} {} {}} {C:/Users/MatyuGuerrero/Documents/School stuff/cicuit theory/Micro Processors/Labs/Modelsim/labs/tic_tac_toe/win_detect_sub.v} {1 {vlog -work work -stats=none {C:/Users/MatyuGuerrero/Documents/School stuff/cicuit theory/Micro Processors/Labs/Modelsim/labs/tic_tac_toe/win_detect_sub.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module win_detect_sub
+
+Top level modules:
+	win_detect_sub
+
+} {} {}} {C:/Users/MatyuGuerrero/Documents/School stuff/cicuit theory/Micro Processors/Labs/Modelsim/labs/tic_tac_toe/win_detector.v} {1 {vlog -work work -stats=none {C:/Users/MatyuGuerrero/Documents/School stuff/cicuit theory/Micro Processors/Labs/Modelsim/labs/tic_tac_toe/win_detector.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module win_detector
+
+Top level modules:
+	win_detector
+
+} {} {}} {C:/Users/MatyuGuerrero/Documents/School stuff/cicuit theory/Micro Processors/Labs/Modelsim/labs/tic_tac_toe/pos_reg.v} {1 {vlog -work work -stats=none {C:/Users/MatyuGuerrero/Documents/School stuff/cicuit theory/Micro Processors/Labs/Modelsim/labs/tic_tac_toe/pos_reg.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module position_reg
+
+Top level modules:
+	position_reg
+
+} {} {}} {C:/Users/MatyuGuerrero/Documents/School stuff/cicuit theory/Micro Processors/Labs/Modelsim/labs/tic_tac_toe/illegal_move_detector.v} {1 {vlog -work work -stats=none {C:/Users/MatyuGuerrero/Documents/School stuff/cicuit theory/Micro Processors/Labs/Modelsim/labs/tic_tac_toe/illegal_move_detector.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module illegal_move_detector
+
+Top level modules:
+	illegal_move_detector
+
+} {} {}}
